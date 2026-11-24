@@ -1,0 +1,6 @@
+{
+  "name": "iPos 5 Web Edition - DONET CELL",
+  "description": "Sistem Kasir POS, Agen BRILink, PPOB, Service HP, Perakitan Voucher Fisik, Manajemen Stok, Pembelian PO, Utang Piutang, dan Akuntansi Toko Konter.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
